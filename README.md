@@ -1,3 +1,3 @@
 # Dune - Website
 
-Les sources de ce petit site web perdu dans le Sahara du Net.
+Les sources d'un petit site web perdu dans le Sahara du Net.
